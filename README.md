@@ -2,7 +2,7 @@
 
 An absorbing Markov chain model for analyzing a modified version of the board game Risk, computing exact win probabilities and expected game lengths using linear algebra.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://modified-risk-game-analysis-8nmagnso8ehnnn7uhaiyd6.streamlit.app/)
 
 ![Win Probability Surface](plots/plot2_win_prob_surface.png)
 
